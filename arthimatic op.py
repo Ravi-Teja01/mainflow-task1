@@ -1,0 +1,12 @@
+a=5
+b=10
+sum=a+b
+difference=a-b
+multiplication=a*b
+division=a/b
+remainder=a%b
+print("addition:",sum)
+print("subtraction:",difference)
+print("multiplication:",multiplication)
+print("division:",division)
+print("Module:",remainder)
